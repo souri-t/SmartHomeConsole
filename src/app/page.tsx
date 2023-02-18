@@ -1,3 +1,6 @@
+"use client";
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Button from 'react-bootstrap/Button';
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from './page.module.css'
